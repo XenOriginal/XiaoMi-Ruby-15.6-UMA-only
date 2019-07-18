@@ -10,7 +10,7 @@
  
  HDMI is okay in 1080P, but work wrong in 4K
  
- Card Reader can passthrough to Virtualmachain, but not work in Mac
+ Card Reader can passthrough to Virtualmachine, but not work in Mac
  
  --------------------Warning-------------------------------
  
