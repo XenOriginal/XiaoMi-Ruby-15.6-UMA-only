@@ -177,7 +177,7 @@
 					<key>Comment</key>
 					<string>change AZAL to HDEF</string>
 					<key>Disabled</key>
-					<true/>
+					<false/>
 					<key>Find</key>
 					<data>
 					QVpBTA==
@@ -191,7 +191,7 @@
 					<key>Comment</key>
 					<string>change HDAS to HDEF</string>
 					<key>Disabled</key>
-					<true/>
+					<false/>
 					<key>Find</key>
 					<data>
 					SERBUw==
@@ -442,13 +442,6 @@
 				</data>
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,2,0</string>
-				<key>AAPL00,override-no-connect</key>
-				<data>
-				AP///////wAGEHycAAAAACEaAQSlIhNgAm+xp1VMniUM
-				UFQAAAABAQEBAQEBAQEBAQEBAQEBtDuASnE4NEBQNmgA
-				WMEQAAAYAAAA/gBOMTU2SENFLUVOMQogAAAA/gBDTU4K
-				ICAgICAgICAgAAAA/gBOMTU2SENFLUVOMQogAMA=
-				</data>
 				<key>device-id</key>
 				<data>
 				FlkAAA==
