@@ -16,6 +16,8 @@
  
  My laptop editon not have a Nvidia-MX graphic card, if you want use my EFI, you need to add DSDT-DDGPU and some boot argument (nv_disable)
  
+ When install system，block ssdt-uiac to prevent kernel panic from usb
+ 
  ---------------Hardware Recommend------------------------
  
  This laptop can use BCM94360CS2, you just need make conversion card not so long, no need to do any destroy on your laptop!
