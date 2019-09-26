@@ -1,6 +1,6 @@
 # XiaoMi-Ruby-15.6-UMA-only
 
- Catalina 10.15 is supported
+ Catalina 10.15 (19A573a) is supported
  
  -----------------Work not well---------------------------
  
