@@ -252,9 +252,7 @@
 		<key>Audio</key>
 		<dict>
 			<key>AFGLowPowerState</key>
-			<false/>
-			<key>Inject</key>
-			<string>No</string>
+			<true/>
 			<key>ResetHDA</key>
 			<true/>
 		</dict>
@@ -420,7 +418,7 @@
 				<string>Audio device</string>
 				<key>layout-id</key>
 				<data>
-				DQAAAA==
+				FQAAAA==
 				</data>
 				<key>model</key>
 				<string>Sunrise Point-LP HD Audio</string>
