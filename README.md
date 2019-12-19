@@ -1,6 +1,6 @@
 # XiaoMi-Ruby-15.6-UMA-only
 
- Catalina 10.15 is supported
+ Catalina 10.15.1 (19B77a) is supported
  
  -----------------Work not well---------------------------
  
@@ -15,6 +15,8 @@
  --------------------Warning-------------------------------
  
  My laptop editon not have a Nvidia-MX graphic card, if you want use my EFI, you need to add DSDT-DDGPU and some boot argument (nv_disable)
+ 
+ When install system，block ssdt-uiac to prevent kernel panic from usb
  
  ---------------Hardware Recommend------------------------
  
