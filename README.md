@@ -5,9 +5,7 @@
  -----------------Work not well---------------------------
  
  Internal speaker can not work
- 
- Earphone is not perfect, bluetooth earphone is recommanded
- 
+  
  4K solution: Due to HDMI bandwith, you must make resolution down to 2880x1600 with 60Hz. (SwitchResX can help you setting it)
  
  Card Reader can passthrough to Virtualmachine, but not work in Mac
