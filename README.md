@@ -1,10 +1,10 @@
 # XiaoMi-Ruby-15.6-UMA-only
 
- Catalina 10.15.1 (19B77a) is supported
+ Catalina 10.15.3 Beta (19D49f) is supported
  
  -----------------Work not well---------------------------
  
- Built in Audio can not work
+ Internal speaker can not work
  
  Earphone is not perfect, bluetooth earphone is recommanded
  
