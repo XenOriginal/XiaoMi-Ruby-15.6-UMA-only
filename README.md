@@ -2,6 +2,8 @@
 
  Catalina 10.15.3 is supported
  
+ 警告：10.15.4苹果加入了hdr，改了驱动，可能会影响hdmi输出，谨慎升级
+ 
  -----------------Work not well---------------------------
  
  Internal speaker can not work
