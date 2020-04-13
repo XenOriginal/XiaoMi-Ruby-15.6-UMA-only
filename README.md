@@ -3,6 +3,7 @@
  Catalina 10.15.4 is supported
   
  请各位自己生成smbios的序列号，机型不要改，容易出问题。
+ 
  -----------------Work not well---------------------------
  
  Internal speaker can not work
