@@ -1,9 +1,8 @@
 # XiaoMi-Ruby-15.6-UMA-only
 
- Catalina 10.15.3 is supported
- 
- 警告：10.15.4苹果加入了hdr，改了驱动，可能会影响hdmi输出，谨慎升级
- 
+ Catalina 10.15.4 is supported
+  
+ 请各位自己生成smbios的序列号，机型不要改，容易出问题。
  -----------------Work not well---------------------------
  
  Internal speaker can not work
