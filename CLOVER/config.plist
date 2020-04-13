@@ -185,7 +185,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>igfxrst=1 -alcbeta darkwake=no kext-dev-mode=1 -lilubeta -cdfon enable-hdmi20</string>
+		<string>igfxrst=1 -alcbeta darkwake=no kext-dev-mode=1 -lilubeta -cdfon enable-hdmi20 igfxonln=1</string>
 		<key>CustomLogo</key>
 		<string>Theme</string>
 		<key>DefaultVolume</key>
@@ -615,12 +615,8 @@
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
 		<string>MBP154.88Z.F000.B00.2001052048</string>
-		<key>Board-ID</key>
-		<string>Mac-53FDB3D8DB8CA971</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
-		<key>BoardSerialNumber</key>
-		<string>FVF9155014N0000A8</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -649,17 +645,11 @@
 		<string>0x02</string>
 		<key>ProductName</key>
 		<string>MacBookPro15,4</string>
-		<key>SerialNumber</key>
-		<string>FVFYK2YNL40Y</string>
-		<key>SmUUID</key>
-		<string>1ECAA24C-58C7-4A7B-A0C8-D07202584A50</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
-		<key>CustomUUID</key>
-		<string>563C369E-5F7A-44CB-89F9-899060B6872D</string>
 		<key>InjectKexts</key>
 		<string>Yes</string>
 		<key>InjectSystemID</key>
