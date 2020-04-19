@@ -1,5 +1,11 @@
 # XiaoMi-Ruby-15.6-UMA-only
 
+## From Clover to Opencore
+
+1. Use scripts unlock CFG and set DVMT
+
+2. Press Space in OpenCore boot page, and then select Clean NVRAM entry
+
 ## Features
 
 1. Opencore Bootloader and all Hotpatch ACPI tables
@@ -81,3 +87,4 @@ For a 99% perfect Hackintosh on Xiaomi-Ruby-15.6-UMA-only, you need do following
   Press Space in OpenCore boot page, and then select Clean NVRAM entry
 
   Need more testing...
+
