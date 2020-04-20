@@ -88,3 +88,6 @@ For a 99% perfect Hackintosh on Xiaomi-Ruby-15.6-UMA-only, you need do following
 
   Need more testing...
 
+## Help Wanted
+  Opencore will use modified ACPI table to boot Windows, but SSDT-XTPD0.aml and ACPI patch "Rename TDP0 to XPD0" will confilicts with it. who can help modified it to fit opencore, both of these are Acpi info of trackpad.
+ 
