@@ -45,6 +45,8 @@ For a 99% perfect Hackintosh on Xiaomi-Ruby-15.6-UMA-only, you need do following
 2. Realtek SD Card Reader
  
     You can passthrough it to VirtualMachine, because it's a USB device!
+    
+3. Use Opencore to launch Windows. You can press CTRL+Enter and CTRL+Index to set default boot device in the picker. And Boot Windows by using F12 on MI Logo.
 
 ## Generate your own SMbios
 
