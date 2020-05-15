@@ -45,8 +45,6 @@ For a 99% perfect Hackintosh on Xiaomi-Ruby-15.6-UMA-only, you need do following
 2. Realtek SD Card Reader
  
     You can passthrough it to VirtualMachine, because it's a USB device!
-    
-3. Use Opencore to launch Windows. You can press CTRL+Enter and CTRL+Index to set default boot device in the picker. And Boot Windows by using F12 on MI Logo.
 
 ## Generate your own SMbios
 
@@ -90,6 +88,4 @@ For a 99% perfect Hackintosh on Xiaomi-Ruby-15.6-UMA-only, you need do following
 
   Need more testing...
 
-## Help Wanted
-  Opencore will use modified ACPI table to boot Windows, but SSDT-XTPD0.aml and ACPI patch "Rename TDP0 to XPD0" will confilicts with it. who can help modified it to fit opencore, both of these are Acpi info of trackpad.
  
