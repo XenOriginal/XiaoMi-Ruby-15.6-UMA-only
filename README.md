@@ -1,5 +1,9 @@
 # XiaoMi-Ruby-15.6-UMA-only
 
+## Warning
+
+This Config only fit for i5-8250U without Nvidia Graphics. You may need to change configs with i3 or i7 edition. And if you have nvidia graphics, you may need to block it.
+
 ## From Clover to Opencore
 
 1. Use scripts unlock CFG and set DVMT
