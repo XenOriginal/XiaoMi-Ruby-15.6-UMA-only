@@ -4,6 +4,8 @@
 
 This Config only fit for i5-8250U without Nvidia Graphics. You may need to change configs with i3 or i7 edition. And if you have nvidia graphics, you may need to block it. And if you use dw-serials wireless card, you may need to add kext by yourself.
 
+The Trackpad is CUST0001 on my computer, if you can't drive it, please look up devcice name in Windows and set an issue!
+
 ## From Clover to Opencore
 
 1. Use scripts unlock CFG and set DVMT
