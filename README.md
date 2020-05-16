@@ -88,4 +88,8 @@ For a 99% perfect Hackintosh on Xiaomi-Ruby-15.6-UMA-only, you need do following
 
   Need more testing...
 
- 
+## Donate
+
+  ![image](https://github.com/XenOriginal/XiaoMi-Ruby-15.6-UMA-only/blob/master/AlipayCollectCode.jpg)
+  ![image](https://github.com/XenOriginal/XiaoMi-Ruby-15.6-UMA-only/blob/master/WechatCollectCode.png)
+
