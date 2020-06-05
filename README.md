@@ -51,6 +51,22 @@ For a 99% perfect Hackintosh on Xiaomi-Ruby-15.6-UMA-only, you need do following
 2. Realtek SD Card Reader
  
     You can passthrough it to VirtualMachine, because it's a USB device!
+    
+## Internal Speaker Solution
+
+Hardware hack may cause gurantee lose!
+
+Add a Bluetooth Sound Module in Ruby, and let internal speaker get sound from it.
+
+![image](https://github.com/XenOriginal/XiaoMi-Ruby-15.6-UMA-only/blob/master/Bild/BlueToothSoundModule_1.jpg)
+
+![image](https://github.com/XenOriginal/XiaoMi-Ruby-15.6-UMA-only/blob/master/Bild/BlueToothSoundModule_2.jpg)
+
+1、M38 Bluetooth Sound Module
+
+2、SH1.0 4p Connector
+
+3、USB Connector
 
 ## Generate your own SMbios
 
@@ -96,6 +112,6 @@ For a 99% perfect Hackintosh on Xiaomi-Ruby-15.6-UMA-only, you need do following
 
 ## Donate
 
-  ![image](https://github.com/XenOriginal/XiaoMi-Ruby-15.6-UMA-only/blob/master/AlipayCollectCode.jpg)
-  ![image](https://github.com/XenOriginal/XiaoMi-Ruby-15.6-UMA-only/blob/master/WechatCollectCode.png)
+  ![image](https://github.com/XenOriginal/XiaoMi-Ruby-15.6-UMA-only/blob/master/Bild/AlipayCollectCode.jpg)
+  ![image](https://github.com/XenOriginal/XiaoMi-Ruby-15.6-UMA-only/blob/master/Bild/WechatCollectCode.png)
 
