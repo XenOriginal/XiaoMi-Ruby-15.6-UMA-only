@@ -158,6 +158,8 @@
 			<false/>
 			<key>ProvideCustomSlide</key>
 			<false/>
+			<key>ProvideMaxSlide</key>
+			<integer>0</integer>
 			<key>RebuildAppleMemoryMap</key>
 			<false/>
 			<key>SetupVirtualMap</key>
@@ -542,6 +544,8 @@
 				<string>-v keepsyms=1 debug=0x100 alcid=21</string>
 				<key>csr-active-config</key>
 				<data>ZwAAAA==</data>
+				<key>run-efi-updater</key>
+				<string>No</string>
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>prev-lang:kbd</key>
@@ -604,7 +608,7 @@
 			<key>MLB</key>
 			<string></string>
 			<key>ROM</key>
-			<data>ESIzqrvM</data>
+			<data>ESIzAAAA</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
@@ -621,6 +625,8 @@
 		<dict>
 			<key>EnableJumpstart</key>
 			<true/>
+			<key>GlobalConnect</key>
+			<false/>
 			<key>HideVerbose</key>
 			<true/>
 			<key>JumpstartHotPlug</key>
@@ -651,7 +657,6 @@
 		<true/>
 		<key>Drivers</key>
 		<array>
-			<string>ApfsDriverLoader.efi</string>
 			<string>OpenRuntime.efi</string>
 			<string>VBoxHfs.efi</string>
 		</array>
@@ -698,6 +703,8 @@
 			<false/>
 			<key>TextRenderer</key>
 			<string>BuiltinGraphics</string>
+			<key>UgaPassThrough</key>
+			<false/>
 		</dict>
 		<key>ProtocolOverrides</key>
 		<dict>
@@ -708,6 +715,8 @@
 			<key>AppleDebugLog</key>
 			<false/>
 			<key>AppleEvent</key>
+			<false/>
+			<key>AppleFramebufferInfo</key>
 			<false/>
 			<key>AppleImageConversion</key>
 			<false/>
@@ -795,6 +804,8 @@
 			<integer>0</integer>
 			<key>ApplePanic</key>
 			<false/>
+			<key>SerialInit</key>
+			<false/>
 			<key>SysReport</key>
 			<false/>
 		</dict>
@@ -819,8 +830,6 @@
 			<integer>0</integer>
 			<key>Vault</key>
 			<string>Optional</string>
-			<key>BlacklistAppleUpdate</key>
-			<true/>
 		</dict>
 		<key>Tools</key>
 		<array>
