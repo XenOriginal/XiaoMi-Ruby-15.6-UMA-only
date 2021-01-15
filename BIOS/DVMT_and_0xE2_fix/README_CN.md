@@ -13,9 +13,11 @@
 
 2. 在进行任意操作之前，确保你的Windows设备允许运行PowerShell脚本。更多信息在[这里](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-6)。我把所有的policy (CurrentUser 和其他) 设成了Unrestricted。做了这个操作后我的脚本才运行正常。
 
-3. 在对BIOS做进一步修改之前运行 `bios_unlock.cmd`。
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted
 
-4. 运行 `DVMT_set.cmd` 让帧缓存=64mb。你需要重启否则脚本将不会生效。你不能一股脑运行完所有脚本再重启，因为只有关机前最后一个脚本生效。
+3. 在对BIOS做进一步修改之前运行 `bios_unlock.cmd`。你需要重启否则脚本将不会生效。你不能一股脑运行完所有脚本再重启，因为只有关机前最后一个脚本生效。
+
+4. 运行 `DVMT_set.cmd` 让帧缓存=64mb。
 
 5. 运行 `CFG_unlock.cmd`，再次重启。
 
