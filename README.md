@@ -43,30 +43,10 @@ For a 99% perfect Hackintosh on Xiaomi-Ruby-15.6-UMA-only, you need do following
     You can test in Opencore boot page
 
 ## Work not Well
-
-1. Internal Speaker (Intel® Smart Sound Technology) 
-
-    Laptops with Intel SST will not have anything connected through them (usually internal mic) work, as it is not supported. You can check with Device Manager on Windows.
   
-2. Realtek SD Card Reader
+1. Realtek SD Card Reader
  
     You can passthrough it to VirtualMachine, because it's a USB device!
-    
-## Internal Speaker Solution
-
-Hardware hack may cause gurantee lose!
-
-Add a Bluetooth Sound Module in Ruby, and let internal speaker get sound from it.
-
-![image](https://github.com/XenOriginal/XiaoMi-Ruby-15.6-UMA-only/blob/master/Bild/BlueToothSoundModule_1.jpg)
-
-![image](https://github.com/XenOriginal/XiaoMi-Ruby-15.6-UMA-only/blob/master/Bild/BlueToothSoundModule_2.jpg)
-
-1、M38 Bluetooth Sound Module
-
-2、SH1.0 4p Connector
-
-3、USB Connector
 
 ## Generate your own SMbios
 
