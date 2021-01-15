@@ -174,15 +174,10 @@
 		<dict/>
 		<key>Add</key>
 		<dict>
-			<key>PciRoot(0x0)/Pci(0x1b,0x0)</key>
-			<dict>
-				<key>layout-id</key>
-				<data>FQAAAA==</data>
-			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AAAWWQ==</data>
+				<data>BQAcWQ==</data>
 				<key>AAPL,slot-name</key>
 				<string>Internal</string>
 				<key>complete-modeset-framebuffers</key>
@@ -615,7 +610,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 alcid=21</string>
+				<string>-v keepsyms=1 debug=0x100 alcid=69 igfxrpsc=1</string>
 				<key>csr-active-config</key>
 				<data>ZwAAAA==</data>
 				<key>run-efi-updater</key>
@@ -682,7 +677,7 @@
 			<key>MLB</key>
 			<string></string>
 			<key>ROM</key>
-			<data>ESIzAAAA</data>
+			<data></data>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>SpoofVendor</key>
@@ -694,7 +689,7 @@
 			<key>SystemSerialNumber</key>
 			<string></string>
 			<key>SystemUUID</key>
-			<string>D0251DD4-4BA7-46B3-90D7-50ACE807CFFE</string>
+			<string></string>
 		</dict>
 	</dict>
 	<key>UEFI</key>
