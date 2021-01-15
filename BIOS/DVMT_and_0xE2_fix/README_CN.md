@@ -4,16 +4,11 @@
 
 ## 简介
 
-<b>仅支持MX150！</b>
-
-0. <b>非常重要! 只在BIOS 603测试过该脚本。 @FallenChromium 和 Cyb 对任何损坏均不负责，虽然由他们制作脚本，但你需要个人承担风险。</b>
-    - 经个人测试，0906 BIOS依然有效
-
 1. <b>重要 - 用 `backup.cmd` 制作备份，把生成的 `mybackup.bin` 保存在云端。这是个理论上可行但不稳定的恢复方案。</b>
 
 2. 在进行任意操作之前，确保你的Windows设备允许运行PowerShell脚本。更多信息在[这里](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-6)。我把所有的policy (CurrentUser 和其他) 设成了Unrestricted。做了这个操作后我的脚本才运行正常。
 
-Set-ExecutionPolicy -ExecutionPolicy Unrestricted
+    Set-ExecutionPolicy -ExecutionPolicy Unrestricted
 
 3. 在对BIOS做进一步修改之前运行 `bios_unlock.cmd`。你需要重启否则脚本将不会生效。你不能一股脑运行完所有脚本再重启，因为只有关机前最后一个脚本生效。
 
