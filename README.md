@@ -44,9 +44,7 @@ For a 99% perfect Hackintosh on Xiaomi-Ruby-15.6-UMA-only, you need do following
 
 ## Work not Well
   
-1. Realtek SD Card Reader
- 
-    You can passthrough it to VirtualMachine, because it's a USB device!
+ None!
 
 ## Generate your own SMbios
 
